@@ -13,6 +13,7 @@
 <br>
  
 ### Minhas redes sociais abaixo!
+Estou aprendendo a programar ainda
  
 <div> 
 
