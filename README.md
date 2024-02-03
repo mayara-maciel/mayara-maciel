@@ -13,7 +13,6 @@
 <br>
  
 ### Minhas redes sociais abaixo!
-### Meu primeiro projeto feito com os meninos do dev em Dobro: https://mayara-maciel.github.io/projeto-gta/
  
 <div> 
 
